@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Musical Barcode</string>
+    <string name="instructions">
+        Scan a barcode to hear some music!\n\n
+        Each single digit in a barcode will correspond to a specific note.\n\n
+        0: A\n
+        1: A#\n
+        2: B\n
+        3: C\n
+        4: C#\n
+        5: D\n
+        6: D#\n
+        7: E\n
+        8: F\n
+        9: F#
+    </string>
+</resources>
